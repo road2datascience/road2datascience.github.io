@@ -1,0 +1,90 @@
+---
+title: <p align= 'center'>INVERSIONES AUTOMÁTICAS </p>
+output: 
+  html_document:
+    highlight: haddock
+    toc: true
+    toc_float:
+      collapsed: false
+---
+
+___
+
+[Artículo 53°- Título 4](https://www.impo.com.uy/bases/todgi/4-1996/1)
+
+
+# <span style="color: #2E86C1;">Inversiones computables</span>
+
+### Inversiones en bienes muebles
+
+<p align= 'justify'>•	Máquinas e instalaciones destinadas a actividades industriales, comerciales y de servicios, con exclusión de las financieras y de arrendamiento de inmuebles.</p>
+
+<p align= 'justify'> •	Maquinarias agrícolas.</p>
+
+<p align= 'justify'> •	Mejoras fijas en el sector agropecuario.</p> 
+
+<p align= 'justify'> •	Vehículos utilitarios.</p>
+
+<p align= 'justify'> •	 Bienes muebles destinados al equipamiento y reequipamiento de hoteles, moteles y paradores.</p>
+
+<p align= 'justify'> •	Bienes de capital destinados a mejorar la prestación de servicios al turista en entretenimiento, esparcimiento, información y traslados. </p>
+
+<p align= 'justify'>•	Equipos necesarios para el procesamiento electrónico de datos y para las comunicaciones.</p>
+
+<p align= 'justify'>•	Maquinarias, instalaciones y equipos, destinados a la innovación y a la especialización productiva.</p>
+
+<p align= 'justify'>•	Fertilizantes fosfatados en cualquiera de sus fórmulas con fósforo únicamente, destinados a la instalación y a la refertilización de praderas permanentes.</p>
+
+
+[Artículo 116°- Decreto 150/07 (reglamentación)](https://www.impo.com.uy/bases/decretos-reglamentarios-todgi/150-2007)
+
+___
+
+### Inversiones en obras 
+
+<p align= 'justify'>•	 Construcción y ampliación de hoteles, moteles y paradores.</p>
+
+<p align= 'justify'>•	 Construcción de edificios o sus ampliaciones destinados a la actividad industrial o agropecuaria.</p>
+___
+___
+
+# <span style="color: #2E86C1;">Exoneración de IRAE</span>
+
+<p align= 'center'><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiYTY1MjYzZmMtMzEyOS00NmQzLWFkZGYtN2E4ODZjMzViNGY3IiwidCI6IjVjZGIyZjk0LWE2ZWUtNDgxMi04ZTJiLTJhZTMxODBmYjkwMSJ9" frameborder="0" allowFullScreen="true"></iframe></p>
+___
+___
+
+
+# <span style="color: #2E86C1;">Consideraciones adicionales</span>
+
+<p align= 'justify'> •	 El monto exonerable de la inversión que supere el porcentaje del tope establecido para el resultado neto podrá ser deducido con las mismas limitaciones en los dos ejercicios siguientes.</p>
+
+<p align= 'justify'>•	 Las rentas exoneradas por este artículo no podrán ser distribuidas y deberán ser llevadas a una reserva cuyo único destino posterior será la capitalización. </p>
+
+<p align= 'justify'>•	Cuando en el ejercicio en que se hayan efectuado inversiones o en los tres siguientes, se enajenen los bienes comprendidos en las exoneraciones de este artículo, deberá computarse como renta del año fiscal en que tal hecho se produzca, el monto de la exoneración efectuada por inversión, sin perjuicio del resultado de la enajenación. </p>
+
+<p align= 'justify'> • No serán computables como inversiones la adquisición de empresas o cuotas de participación en las mismas. </p>
+
+___
+
+# <span style="color: #2E86C1;">Dif. proy. promovidos COMAP</span>
+
+
+|ATRIBUTO| INVERSIÓN AUTOMÁTICA | INVERSIÓN PROMOVIDA |
+|:-----------------|:-------------------:|------------------:|
+|Solicitud de proyecto|no requiere|requiere proyecto|
+|Tope exoneración IRAE|40% - 60% RNF|60% - 80% IRAE|
+|Ingresos ejercicios ant.|< 10 M de UI|Sin requisito|
+|Plazo de exoneración|1 a 3 ejercicios|1 a 10 ejercicios|
+|Beneficios adicionales| Exon IP en algunos casos | Exon IP, Dev. IVA compras, etc|
+|Construcción obras civiles|Industria, agro y hotelería|Industria agro y comercio|
+|Cumplimiento de indicadores|ninguno|Matriz de indicadores |
+|Mantener inversión|3 ejercicios|Vida útil o 10 ejercicios |
+|Control y seguimiento|ninguno|Control y seg x 5 años |
+|Línea Declaración|154 DJ 2148/9|346 DJ 2148/9 |
+
+
+___
+___
+
+<p align= 'center'>![](vlc2.png)</p>
